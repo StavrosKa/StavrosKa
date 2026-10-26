@@ -1,6 +1,6 @@
 **Dev | M.Sc. in ML**
 
-My interests include software, applied AI, dev tricks+theory, and building in digits.
+My interests include software, applied AI, dev tricks, and building in digits.
 
 ### Selected Pins
 
@@ -8,7 +8,7 @@ My interests include software, applied AI, dev tricks+theory, and building in di
 A cultural discovery and catalogue intelligence prototype for independent bookshops. Built with Astro, TypeScript, React and React Flow.
 
 **🌐 [Personal Website](https://stavroskarelis.com/)**\
-My garden, where I write about ideas, tech + software skills.
+My garden, where I write about ideas, theory + software skills.
 
 ### Currently Exploring
 
