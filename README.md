@@ -1,16 +1,22 @@
-## Hi there 👋
+**Dev | M.Sc. in ML**
 
-<!--
-**StavrosKa/StavrosKa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My interests include software, applied AI, dev tricks+theory, and building in digits.
 
-Here are some ideas to get you started:
+### Selected Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📚 [FolioEcho](https://github.com/StavrosKa/folioecho)**\
+A cultural discovery and catalogue intelligence prototype for independent bookshops. Built with Astro, TypeScript, React and React Flow.
+
+**🌐 [Personal Website](https://stavroskarelis.com/)**\
+My garden, where I write about ideas, tech + software skills.
+
+### Currently Exploring
+
+Applied AI · Agentic Systems · Web Apps · Developer Hacks
+
+### Connect
+
+🌐 [Website](https://stavroskarelis.com/)\
+📧 [hello@stavroskarelis.com](mailto:hello@stavroskarelis.com)
+
+*Building useful things, one project at a time.*
