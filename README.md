@@ -2,7 +2,7 @@
 
 My interests include software, applied AI, dev tricks+theory, and building in digits.
 
-### Selected Projects
+### Selected Pins
 
 **📚 [FolioEcho](https://github.com/StavrosKa/folioecho)**\
 A cultural discovery and catalogue intelligence prototype for independent bookshops. Built with Astro, TypeScript, React and React Flow.
