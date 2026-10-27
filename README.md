@@ -10,6 +10,12 @@ A cultural discovery and catalogue intelligence prototype for independent booksh
 **🌐 [Personal Website](https://stavroskarelis.com/)**\
 My garden, where I write about ideas, theory + software skills.
 
+**🩺 [Paidiatriko](https://github.com/StavrosKa/Paidiatriko)**\
+A legacy pediatric health records application for medical history, growth tracking and vaccinations. Built with ASP.NET and VB.NET.
+
+**📊 [Dimoskopisi](https://github.com/StavrosKa/Dimoskopisi)**\
+A legacy ASP.NET platform for hospital patient satisfaction surveys and statistical reporting. Built with VB.NET.
+
 ### Currently Exploring
 
 Applied AI · Agentic Systems · Web Apps · Developer Hacks
