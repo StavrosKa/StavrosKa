@@ -15,14 +15,3 @@ A legacy pediatric health records application for medical history, growth tracki
 
 **📊 [Dimoskopisi](https://github.com/StavrosKa/Dimoskopisi)**\
 A legacy ASP.NET platform for hospital patient satisfaction surveys and statistical reporting. Built with VB.NET.
-
-### Currently Exploring
-
-Applied AI · Agentic Systems · Web Apps · Developer Hacks
-
-### Connect
-
-🌐 [Website](https://stavroskarelis.com/)\
-📧 [hello@stavroskarelis.com](mailto:hello@stavroskarelis.com)
-
-*Building useful things, one project at a time.*
