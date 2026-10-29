@@ -7,8 +7,10 @@ My interests include software, applied AI, dev tricks, and building in digits.
 **📚 [FolioEcho](https://github.com/StavrosKa/folioecho)**\
 A cultural discovery and catalogue intelligence prototype for independent bookshops. Built with Astro, TypeScript, React and React Flow.
 
-**🌐 [Personal Website](https://stavroskarelis.com/)**\
-My garden, where I write about ideas, theory + software skills.
+**🍽️ [Philoxenia](https://github.com/StavrosKa/Philoxenia)**\
+A legacy restaurant POS interface prototype with desktop and mobile screens, order flows and cashier dashboards.
+
+`restaurant-pos` · `point-of-sale` · `hospitality` · `javascript` · `mobile-ui` · `legacy`
 
 **🩺 [Paidiatriko](https://github.com/StavrosKa/Paidiatriko)**\
 A legacy pediatric health records application for medical history, growth tracking and vaccinations. Built with ASP.NET and VB.NET.
